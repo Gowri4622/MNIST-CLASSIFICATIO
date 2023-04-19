@@ -1,5 +1,4 @@
-### EX NO : 03
-### DATE  : 24.09.2022
+
 # <p align="center"> Convolutional Deep Neural Network for Digit Classification </p>
 
 ## AIM
